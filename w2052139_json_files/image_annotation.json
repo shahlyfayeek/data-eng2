@@ -1,0 +1,253 @@
+[
+    {
+      "image id": "image_01.jpg",
+      "keywords": ["transportation, metro, cozy, rainy, public transport"],
+      "description": "A metro on its way to the station on a rainy day."
+    },
+    {
+      "image id": "image_02.jpg",
+      "keywords": ["medical image, infrastucture, equipment, scanner"],
+      "description":  "A medical equipment used for scanning eyes."
+    },
+    {
+      "image id": "image_03.jpg",
+      "keywords": ["transportation, vehicle, scooter, vintage, orange"],
+      "description": "An orange vintage scooter."
+    },
+    {
+      "image id": "image_04.jpg",
+      "keywords": ["animals, penguins, colony, waddle"],
+      "description": "A colony of penguins on land waddling around."
+    },
+    {
+      "image id": "image_05.jpg",
+      "keywords": ["fruits, red, tomatoes, harvest"],
+      "description": "Freshly harvested tomatoes."
+    },
+    {
+      "image id": "image_06.jpg",
+      "keywords": ["transportation, highway, car, container."],
+      "description": "Vehicles cruising on a highway."
+    },
+    {
+      "image id": "image_07.jpg",
+      "keywords": ["fruits, strawberries, red, fresh, ripe"],
+      "description": "Fresh strawberries bunch."
+    },
+    {
+      "image id": "image_08.jpg",
+      "keywords": ["aeroplane, airline, qatar airways, aviation, transportation, sky"],
+      "description": "A qatar airways aeroplane gliding in a pretty blue sky"
+    },
+    {
+      "image id": "image_09.jpg",
+      "keywords": ["animals, giraffe, young, wild"],
+      "description": "Three baby giraffes hanging out in the wild."
+    },
+    {
+      "image id": "image_10.jpg",
+      "keywords": ["animals, elephants, forest, walking"],
+      "description": "An elephant mom leading her calf in a forest."
+    },
+    {
+      "image id": "image_11.jpg",
+      "keywords": ["animals, kittens, grass"],
+      "description": "Five baby kittens playing in the grass."
+    },
+    {
+      "image id": "image_12.jpg",
+      "keywords": ["highway, intersection, aerial view, roads, urban planning, transportation, traffic, cityscape, overpass, infrastructure"],
+      "description": "A stunning aerial view of a highway intersection showcasing multiple roads, overpasses, and green spaces. The image captures the intricate design of urban transportation systems."
+    },
+    {
+      "image id": "image_13.jpg",
+      "keywords": ["clothing, jeans, lightblue, darkblue"],
+      "description": "A set of jeans stacked on top."
+    },
+    {
+      "image id": "image_14.jpg",
+      "keywords": ["clothing, brown bag, clothes, stool"],
+      "description":  "Clothes and a bag placed on a stool."
+    },
+    {
+      "image id": "image_15.jpg",
+      "keywords": ["fruits, kiwi, green, ripe, slices"],
+      "description":  "Freshly sliced Kiwi."
+    },
+    {
+      "image id": "image_16.jpg",
+      "keywords": ["clothing, fashion, black dress, ladies wear, design, mannequin, frock, shirt"],
+      "description": "Designing a frock and a shirt on a mannequin."
+    },
+    {
+      "image id": "image_17.jpg",
+      "keywords": ["fruits, apples, red"],
+      "description": "A picture of freshly pluck apples."
+    },
+    {
+      "image id": "image_18.jpg",
+      "keywords": ["medical image, equipment, stethoscope, pills"],
+      "description": "A picture of a stethoscope and pills placed on the side."
+    },
+    {
+      "image id": "image_19.jpg",
+      "keywords": ["animal, kitten, white, blue eyes, majestic"],
+      "description":  "A white kitten with majestic blue eyes."
+    },
+    {
+      "image id": "image_20.jpg",
+      "keywords": ["transportation, dark, ships, gloomy, anchorage, dock"],
+      "description": "Two ships parked at a dock."
+    },
+    {
+      "image id": "image_21.jpg",
+      "keywords": ["medical image, teeth, brush, dentist"],
+      "description": "A dentist providing instructions on how to brush."
+    },
+    {
+      "image id": "image_22.jpg",
+      "keywords": ["fruit, banana, yellow"],
+      "description": "Freshly harvested bananas."
+    },
+    {
+      "image id": "image_23.jpg",
+      "keywords": ["birds, rainbow lorikeet, drinking water"],
+      "description":"Two rainbow lorikeets drinking water."
+    },
+    {
+      "image id": "image_24.jpg",
+      "keywords": ["classic car, sports car, blue car, retro design, Alpine A110, vintage vehicle, autumn background, road trip, automobile, elegance"],
+      "description": "A beautifully preserved blue Alpine A110 sports car parked on a road with a scenic autumn backdrop. This vintage vehicle exudes timeless elegance and charm."
+    },
+    {
+      "image id": "image_25.jpg",
+      "keywords": ["clothing, brown, blue, hanger, blazer"],
+      "description": "Blue and Brown blazer hung for display."
+    },
+    {
+      "image id": "image_26.jpg",
+      "keywords": ["clothing, blue dress, ladies wear, hanger, fashion, sleeveless, top"],
+      "description": "A fashionable blue dress displayed on a hanger."
+    },
+    {
+      "image id": "image_27.jpg",
+      "keywords": ["clothing, unisex, knitted top, cozy dress"],
+      "description": "A cozy knitted top for the winter season."
+    },
+    {
+      "image id": "image_28.jpg",
+      "keywords": ["fruits, orange, oranges"],
+      "description": "Three round oranges."
+    },
+    {
+      "image id": "image_29.jpg",
+      "keywords": ["fruits, apples, green, fresh, bunch"],
+      "description": "A bunch of freshly harvested green apples."
+    },
+    {
+      "image id": "image_30.jpg",
+      "keywords": ["animal, tiger, powerful, intimidating"],
+      "description":  "An intimidating tiger patiently waiting for its prey."
+    },
+    {
+      "image id": "image_31.jpg",
+      "keywords": ["colorful bus, rural road, travel, vintage transportation, scenic route, countryside, cultural heritage, journey, mountains, adventure"],
+      "description": "A vibrant and uniquely decorated bus traveling along a winding rural road surrounded by scenic countryside and hills. The image reflects the essence of cultural and adventurous journeys."
+    },
+    {
+      "image id": "image_32.jpg",
+      "keywords": ["animal, squirrel, grass"],
+      "description": "A squirrel biting on a nut."
+    },
+    {
+      "image id": "image_33.jpg",
+      "keywords": ["animal, chameleon, green, lazy"],
+      "description": "A lazy old chameleon resting on a branch of a tree."
+    },
+    {
+      "image id": "image_34.jpg",
+      "keywords": ["fruits, strawberries, red, bowl, ripe, fresh"],
+      "description":  "Freshly plucked strawberries placed in a white ceramic bowl."
+    },
+    {
+      "image id": "image_35.jpg",
+      "keywords": ["transportation, warehouse, forklift, logistics, goods"],
+      "description": "An employee storing goods in a warehouse using a forklift."
+    },
+    {
+      "image id": "image_36.jpg",
+      "keywords": ["medical image, rib cages, X-ray"],
+      "description": "A doctor examining a patient's X-ray"
+    },
+    {
+      "image id": "image_37.jpg",
+      "keywords": ["medical image, ultrasound scan, baby"],
+      "description": "A doctor examining a mother's womb."
+    },
+    {
+      "image id": "image_38.jpg",
+      "keywords": ["medical image, teeth, X-ray, dentist, dental"],
+      "description":  "A dentist scrutinising an X-ray of a patient's teeth."
+    },
+    {
+      "image id": "image_39.jpg",
+      "keywords": ["clothing, unisex, cozy, shirt, wardrobe"],
+      "description": "A set of shirts hung in a wardrobe."
+    },
+    {
+      "image id": "image_40.jpg",
+      "keywords": ["medical image, ultrasound scan, baby"],
+      "description": "An ultrasound scan of a pregnant mother who's expeting a baby."
+    },
+    {
+      "image id": "image_41.jpg",
+      "keywords": ["transportation, airlines, airport, parking"],
+      "description": "Aeroplanes from various airlines boarding passengers."
+    },
+    {
+      "image id": "image_42.jpg",
+      "keywords": ["fruits, blueberries, fresh, harvest"],
+      "description": "Freshly harvested blueberries."
+    },
+    {
+      "image id": "image_43.jpg",
+      "keywords": ["clothing, jeans, lightblue, darkblue"],
+      "description": "Jeans grouped based on colour."
+    },
+    {
+      "image id": "image_44.jpg",
+      "keywords": ["transportation, aerial image, bird-view, vehicles, junction, signals"],
+      "description": "An aerial image of a busy street."
+    },
+    {
+      "image id": "image_45.jpg",
+      "keywords": ["birds, pigeons, flock, blue"],
+      "description": "A flock of pigeons."
+    },
+    {
+      "image id": "image_46.jpg",
+      "keywords": ["Transportation, container, port, logistics"],
+      "description": "A container entering a port to unload goods."
+    },
+    {
+      "image id": "image_47.jpg",
+      "keywords": ["fruits, lemons, yellow"],
+      "description": "A picture of three fresh lemons."
+    },
+    {
+      "image id": "image_48.jpg",
+      "keywords": ["medical image, X-ray, ankle, physiotherapist"],
+      "description": "An X-ray of a patient's ankle."
+    },
+    {
+      "image id": "image_49.jpg",
+      "keywords": ["clothing, sweater, jeans, glasses, winter, ladies wear"],
+      "description": "A cute winter outfit for a lady"
+    },
+    {
+      "image id": "image_50.jpg",
+      "keywords": ["clothing, chair, sweater"],
+      "description": "A sweater placed on a chair."
+    }
+  ]
+  

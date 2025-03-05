@@ -1,0 +1,2102 @@
+{
+    "image_01.jpg": {
+        "intensity_features": {
+            "mean_intensity": 88.25097333333333,
+            "norm_intensity": 101295.20552326256,
+            "mean_color": [
+                78.437636,
+                91.645304,
+                94.66998
+            ],
+            "std_color": [
+                76.71568965166571,
+                75.12133666773491,
+                77.4637514376848
+            ],
+            "skewness_color": 0.9279115845697918,
+            "kurtosis_color": 2.342637727804446
+        },
+        "texture_features": {
+            "contrast": 445.02404809619236,
+            "dissimilarity": 9.25324248496994,
+            "homogeneity": 0.34011875479968257,
+            "energy": 0.04552513068565193,
+            "correlation": 0.9606063525591019,
+            "ASM": 0.002072537523945687
+        },
+        "shape_features": {
+            "largest_contour_area": 830.5,
+            "largest_contour_perimeter": 2289.9768248796463,
+            "largest_contour_centroid": [
+                193,
+                138
+            ],
+            "bounding_box": {
+                "x": 55,
+                "y": 61,
+                "width": 187,
+                "height": 152
+            },
+            "aspect_ratio": 1.230263157894737,
+            "extent": 0.02921826625386997
+        }
+    },
+    "image_02.jpg": {
+        "intensity_features": {
+            "mean_intensity": 174.47588,
+            "norm_intensity": 154471.48768623936,
+            "mean_color": [
+                169.88228,
+                174.635236,
+                178.910124
+            ],
+            "std_color": [
+                35.571286932042696,
+                36.67877314230064,
+                38.325265795619465
+            ],
+            "skewness_color": -0.26749203231117646,
+            "kurtosis_color": 3.608619079594411
+        },
+        "texture_features": {
+            "contrast": 40.673346693386776,
+            "dissimilarity": 2.233795591182365,
+            "homogeneity": 0.5403808472029719,
+            "energy": 0.04663783117639762,
+            "correlation": 0.9845840373949852,
+            "ASM": 0.002175087296838166
+        },
+        "shape_features": {
+            "largest_contour_area": 1163.5,
+            "largest_contour_perimeter": 248.97770392894745,
+            "largest_contour_centroid": [
+                137,
+                180
+            ],
+            "bounding_box": {
+                "x": 112,
+                "y": 140,
+                "width": 62,
+                "height": 85
+            },
+            "aspect_ratio": 0.7294117647058823,
+            "extent": 0.22077798861480075
+        }
+    },
+    "image_03.jpg": {
+        "intensity_features": {
+            "mean_intensity": 106.57709466666667,
+            "norm_intensity": 110000.64742991289,
+            "mean_color": [
+                133.636836,
+                101.877964,
+                84.216484
+            ],
+            "std_color": [
+                64.03517236573353,
+                64.9614879079524,
+                68.91829848942699
+            ],
+            "skewness_color": -0.06295980475370891,
+            "kurtosis_color": 1.4148698053474997
+        },
+        "texture_features": {
+            "contrast": 200.37430861723445,
+            "dissimilarity": 4.585322645290581,
+            "homogeneity": 0.5153682810642908,
+            "energy": 0.05150809843588778,
+            "correlation": 0.9737240547271541,
+            "ASM": 0.0026530842044811052
+        },
+        "shape_features": {
+            "largest_contour_area": 2124.0,
+            "largest_contour_perimeter": 4470.4817752838135,
+            "largest_contour_centroid": [
+                306,
+                190
+            ],
+            "bounding_box": {
+                "x": 158,
+                "y": 145,
+                "width": 342,
+                "height": 146
+            },
+            "aspect_ratio": 2.3424657534246576,
+            "extent": 0.04253785147801009
+        }
+    },
+    "image_04.jpg": {
+        "intensity_features": {
+            "mean_intensity": 112.95491733333333,
+            "norm_intensity": 119360.5792546266,
+            "mean_color": [
+                109.148288,
+                115.729692,
+                113.986772
+            ],
+            "std_color": [
+                78.83389617841277,
+                78.74476618534278,
+                79.19959316198126
+            ],
+            "skewness_color": 0.09941942796886497,
+            "kurtosis_color": 1.3674874306977443
+        },
+        "texture_features": {
+            "contrast": 385.07302605210424,
+            "dissimilarity": 9.255150300601203,
+            "homogeneity": 0.21060379923067166,
+            "energy": 0.022141936236468533,
+            "correlation": 0.9688441510943102,
+            "ASM": 0.0004902653402998383
+        },
+        "shape_features": {
+            "largest_contour_area": 599.0,
+            "largest_contour_perimeter": 233.76450061798096,
+            "largest_contour_centroid": [
+                291,
+                84
+            ],
+            "bounding_box": {
+                "x": 271,
+                "y": 60,
+                "width": 39,
+                "height": 61
+            },
+            "aspect_ratio": 0.639344262295082,
+            "extent": 0.251786464901219
+        }
+    },
+    "image_05.jpg": {
+        "intensity_features": {
+            "mean_intensity": 74.03362,
+            "norm_intensity": 100551.9327859987,
+            "mean_color": [
+                174.376896,
+                32.250536,
+                15.473428
+            ],
+            "std_color": [
+                71.45685488046226,
+                50.61924163511221,
+                32.97800949004554
+            ],
+            "skewness_color": 0.8891570007724761,
+            "kurtosis_color": 2.2846755675248236
+        },
+        "texture_features": {
+            "contrast": 121.1635110220441,
+            "dissimilarity": 4.663735470941885,
+            "homogeneity": 0.39655686423866054,
+            "energy": 0.03838798153010024,
+            "correlation": 0.9688447308651695,
+            "ASM": 0.0014736371259553172
+        },
+        "shape_features": {
+            "largest_contour_area": 361.5,
+            "largest_contour_perimeter": 1877.1281900405884,
+            "largest_contour_centroid": [
+                361,
+                163
+            ],
+            "bounding_box": {
+                "x": 321,
+                "y": 79,
+                "width": 102,
+                "height": 150
+            },
+            "aspect_ratio": 0.68,
+            "extent": 0.023627450980392158
+        }
+    },
+    "image_06.jpg": {
+        "intensity_features": {
+            "mean_intensity": 107.81941066666667,
+            "norm_intensity": 117743.88453758437,
+            "mean_color": [
+                106.707336,
+                108.311568,
+                108.439328
+            ],
+            "std_color": [
+                81.44011200744409,
+                82.96576473090161,
+                84.03416118999395
+            ],
+            "skewness_color": 0.4993985338709774,
+            "kurtosis_color": 1.6442377179161782
+        },
+        "texture_features": {
+            "contrast": 84.41942685370742,
+            "dissimilarity": 2.9522124248497,
+            "homogeneity": 0.49935303490318206,
+            "energy": 0.042157921154904555,
+            "correlation": 0.9938012289039714,
+            "ASM": 0.0017772903161031488
+        },
+        "shape_features": {
+            "largest_contour_area": 327.5,
+            "largest_contour_perimeter": 85.69848430156708,
+            "largest_contour_centroid": [
+                484,
+                229
+            ],
+            "bounding_box": {
+                "x": 474,
+                "y": 220,
+                "width": 26,
+                "height": 20
+            },
+            "aspect_ratio": 1.3,
+            "extent": 0.6298076923076923
+        }
+    },
+    "image_07.jpg": {
+        "intensity_features": {
+            "mean_intensity": 88.94655866666666,
+            "norm_intensity": 106490.43514325593,
+            "mean_color": [
+                176.081432,
+                46.374292,
+                44.383952
+            ],
+            "std_color": [
+                67.75176007181295,
+                53.83462236793552,
+                52.413764421773884
+            ],
+            "skewness_color": 0.5298563377216281,
+            "kurtosis_color": 1.8804617897745841
+        },
+        "texture_features": {
+            "contrast": 1142.2554388777555,
+            "dissimilarity": 21.50488977955912,
+            "homogeneity": 0.11678303478023312,
+            "energy": 0.01637690383144817,
+            "correlation": 0.7792712963483164,
+            "ASM": 0.0002682029791045017
+        },
+        "shape_features": {
+            "largest_contour_area": 2009.5,
+            "largest_contour_perimeter": 1922.2165001630783,
+            "largest_contour_centroid": [
+                198,
+                116
+            ],
+            "bounding_box": {
+                "x": 151,
+                "y": 76,
+                "width": 120,
+                "height": 115
+            },
+            "aspect_ratio": 1.0434782608695652,
+            "extent": 0.1456159420289855
+        }
+    },
+    "image_08.jpg": {
+        "intensity_features": {
+            "mean_intensity": 145.70443733333335,
+            "norm_intensity": 137284.8442035755,
+            "mean_color": [
+                76.673832,
+                171.472424,
+                188.967056
+            ],
+            "std_color": [
+                30.31621147894102,
+                41.481194191646,
+                41.93488622487207
+            ],
+            "skewness_color": -0.662131160422295,
+            "kurtosis_color": 2.0241694162864308
+        },
+        "texture_features": {
+            "contrast": 210.00451302605205,
+            "dissimilarity": 6.074589178356713,
+            "homogeneity": 0.20025846415885748,
+            "energy": 0.0269776559490691,
+            "correlation": 0.9206420272515146,
+            "ASM": 0.0007277939205063434
+        },
+        "shape_features": {
+            "largest_contour_area": 99.5,
+            "largest_contour_perimeter": 100.32590067386627,
+            "largest_contour_centroid": [
+                232,
+                362
+            ],
+            "bounding_box": {
+                "x": 220,
+                "y": 350,
+                "width": 23,
+                "height": 21
+            },
+            "aspect_ratio": 1.0952380952380953,
+            "extent": 0.20600414078674947
+        }
+    },
+    "image_09.jpg": {
+        "intensity_features": {
+            "mean_intensity": 153.44680666666667,
+            "norm_intensity": 140285.44766653454,
+            "mean_color": [
+                160.998444,
+                151.722688,
+                147.619288
+            ],
+            "std_color": [
+                41.93562048639537,
+                47.45075495768194,
+                63.072416176743104
+            ],
+            "skewness_color": -1.0823719246658963,
+            "kurtosis_color": 3.216378052012462
+        },
+        "texture_features": {
+            "contrast": 282.6161202404809,
+            "dissimilarity": 8.268472945891782,
+            "homogeneity": 0.3998634111854181,
+            "energy": 0.1259527529812281,
+            "correlation": 0.9348481021863756,
+            "ASM": 0.015864095983550264
+        },
+        "shape_features": {
+            "largest_contour_area": 3023.5,
+            "largest_contour_perimeter": 2010.9961574077606,
+            "largest_contour_centroid": [
+                225,
+                409
+            ],
+            "bounding_box": {
+                "x": 183,
+                "y": 306,
+                "width": 102,
+                "height": 158
+            },
+            "aspect_ratio": 0.6455696202531646,
+            "extent": 0.18760858773889302
+        }
+    },
+    "image_10.jpg": {
+        "intensity_features": {
+            "mean_intensity": 142.90878,
+            "norm_intensity": 138874.49736722722,
+            "mean_color": [
+                193.300868,
+                141.718908,
+                93.706564
+            ],
+            "std_color": [
+                62.95525505029247,
+                66.2344099036463,
+                50.63347006983905
+            ],
+            "skewness_color": -0.28541778886702424,
+            "kurtosis_color": 2.0288925341062995
+        },
+        "texture_features": {
+            "contrast": 346.1494388777555,
+            "dissimilarity": 10.106913827655312,
+            "homogeneity": 0.19910379880908818,
+            "energy": 0.02584038496381842,
+            "correlation": 0.9565309490864545,
+            "ASM": 0.000667725495078333
+        },
+        "shape_features": {
+            "largest_contour_area": 502.5,
+            "largest_contour_perimeter": 2387.613469481468,
+            "largest_contour_centroid": [
+                147,
+                330
+            ],
+            "bounding_box": {
+                "x": 77,
+                "y": 206,
+                "width": 199,
+                "height": 197
+            },
+            "aspect_ratio": 1.0101522842639594,
+            "extent": 0.012817896589546717
+        }
+    },
+    "image_11.jpg": {
+        "intensity_features": {
+            "mean_intensity": 111.42715466666667,
+            "norm_intensity": 107893.76042200031,
+            "mean_color": [
+                114.365728,
+                139.447184,
+                80.468552
+            ],
+            "std_color": [
+                49.92736014481401,
+                46.7866629978054,
+                53.6870217000707
+            ],
+            "skewness_color": 0.07312558735901542,
+            "kurtosis_color": 2.34397181766242
+        },
+        "texture_features": {
+            "contrast": 808.3242925851704,
+            "dissimilarity": 19.260324649298596,
+            "homogeneity": 0.07438389042989374,
+            "energy": 0.009845033215655158,
+            "correlation": 0.804472201250753,
+            "ASM": 9.692467901735334e-05
+        },
+        "shape_features": {
+            "largest_contour_area": 944.0,
+            "largest_contour_perimeter": 965.1757484674454,
+            "largest_contour_centroid": [
+                135,
+                405
+            ],
+            "bounding_box": {
+                "x": 109,
+                "y": 372,
+                "width": 54,
+                "height": 70
+            },
+            "aspect_ratio": 0.7714285714285715,
+            "extent": 0.24973544973544973
+        }
+    },
+    "image_12.jpg": {
+        "intensity_features": {
+            "mean_intensity": 79.52442,
+            "norm_intensity": 86587.45214521559,
+            "mean_color": [
+                78.522992,
+                82.839968,
+                77.2103
+            ],
+            "std_color": [
+                70.17747358924986,
+                55.76966556972291,
+                54.44871974536852
+            ],
+            "skewness_color": 0.7005679070048708,
+            "kurtosis_color": 2.4634350764412556
+        },
+        "texture_features": {
+            "contrast": 1666.1141763527055,
+            "dissimilarity": 24.61396793587174,
+            "homogeneity": 0.08225389334959686,
+            "energy": 0.011689814903703199,
+            "correlation": 0.7571325293973484,
+            "ASM": 0.00013665177248284142
+        },
+        "shape_features": {
+            "largest_contour_area": 2824.0,
+            "largest_contour_perimeter": 6332.612053990364,
+            "largest_contour_centroid": [
+                325,
+                253
+            ],
+            "bounding_box": {
+                "x": 33,
+                "y": 104,
+                "width": 467,
+                "height": 263
+            },
+            "aspect_ratio": 1.7756653992395437,
+            "extent": 0.02299281067569878
+        }
+    },
+    "image_13.jpg": {
+        "intensity_features": {
+            "mean_intensity": 203.79792133333333,
+            "norm_intensity": 183478.7947774892,
+            "mean_color": [
+                197.409332,
+                204.297868,
+                209.686564
+            ],
+            "std_color": [
+                65.11894393580542,
+                56.264628592520346,
+                50.74612191954875
+            ],
+            "skewness_color": -1.9905396583419048,
+            "kurtosis_color": 6.02540193843171
+        },
+        "texture_features": {
+            "contrast": 790.9254068136273,
+            "dissimilarity": 11.120324649298597,
+            "homogeneity": 0.6675840850027563,
+            "energy": 0.18847728724831195,
+            "correlation": 0.8824248000403813,
+            "ASM": 0.03552368780848269
+        },
+        "shape_features": {
+            "largest_contour_area": 2584.0,
+            "largest_contour_perimeter": 8125.866879940033,
+            "largest_contour_centroid": [
+                306,
+                335
+            ],
+            "bounding_box": {
+                "x": 61,
+                "y": 219,
+                "width": 377,
+                "height": 208
+            },
+            "aspect_ratio": 1.8125,
+            "extent": 0.03295245868190165
+        }
+    },
+    "image_14.jpg": {
+        "intensity_features": {
+            "mean_intensity": 112.818256,
+            "norm_intensity": 104932.58849375631,
+            "mean_color": [
+                129.204972,
+                111.4029,
+                97.846896
+            ],
+            "std_color": [
+                28.67698837882529,
+                41.592887800558486,
+                53.0330892855097
+            ],
+            "skewness_color": -1.0222896716352197,
+            "kurtosis_color": 3.502362420750781
+        },
+        "texture_features": {
+            "contrast": 80.72562324649299,
+            "dissimilarity": 3.79625250501002,
+            "homogeneity": 0.3490359809426055,
+            "energy": 0.036522527135639735,
+            "correlation": 0.9702650634446717,
+            "ASM": 0.0013338949883735405
+        },
+        "shape_features": {
+            "largest_contour_area": 660.5,
+            "largest_contour_perimeter": 172.81118214130402,
+            "largest_contour_centroid": [
+                274,
+                55
+            ],
+            "bounding_box": {
+                "x": 248,
+                "y": 42,
+                "width": 45,
+                "height": 27
+            },
+            "aspect_ratio": 1.6666666666666667,
+            "extent": 0.5436213991769547
+        }
+    },
+    "image_15.jpg": {
+        "intensity_features": {
+            "mean_intensity": 102.700564,
+            "norm_intensity": 101753.21557081133,
+            "mean_color": [
+                116.923672,
+                135.417524,
+                55.760496
+            ],
+            "std_color": [
+                46.242896341347134,
+                47.974594169314834,
+                43.08847379326825
+            ],
+            "skewness_color": 0.06983558355307956,
+            "kurtosis_color": 2.183621762605228
+        },
+        "texture_features": {
+            "contrast": 350.9489498997997,
+            "dissimilarity": 13.408821643286574,
+            "homogeneity": 0.09163222603496356,
+            "energy": 0.010834335687425983,
+            "correlation": 0.9134152358252807,
+            "ASM": 0.00011738282978783223
+        },
+        "shape_features": {
+            "largest_contour_area": 672.0,
+            "largest_contour_perimeter": 1036.8569869995117,
+            "largest_contour_centroid": [
+                250,
+                113
+            ],
+            "bounding_box": {
+                "x": 197,
+                "y": 72,
+                "width": 73,
+                "height": 80
+            },
+            "aspect_ratio": 0.9125,
+            "extent": 0.11506849315068493
+        }
+    },
+    "image_16.jpg": {
+        "intensity_features": {
+            "mean_intensity": 135.479644,
+            "norm_intensity": 145608.775508209,
+            "mean_color": [
+                135.483484,
+                135.485084,
+                135.470364
+            ],
+            "std_color": [
+                99.57127111382306,
+                99.57096565523221,
+                99.57230961320037
+            ],
+            "skewness_color": -0.14318600498288322,
+            "kurtosis_color": 1.210750680399944
+        },
+        "texture_features": {
+            "contrast": 217.01080961923847,
+            "dissimilarity": 4.703442885771544,
+            "homogeneity": 0.40339105802104,
+            "energy": 0.048199516853657406,
+            "correlation": 0.9890595387658737,
+            "ASM": 0.0023231934249260044
+        },
+        "shape_features": {
+            "largest_contour_area": 298.5,
+            "largest_contour_perimeter": 5489.950685739517,
+            "largest_contour_centroid": [
+                143,
+                202
+            ],
+            "bounding_box": {
+                "x": 0,
+                "y": 2,
+                "width": 261,
+                "height": 498
+            },
+            "aspect_ratio": 0.5240963855421686,
+            "extent": 0.0022965424918063057
+        }
+    },
+    "image_17.jpg": {
+        "intensity_features": {
+            "mean_intensity": 116.825204,
+            "norm_intensity": 112321.6230251326,
+            "mean_color": [
+                142.226708,
+                109.366204,
+                98.8827
+            ],
+            "std_color": [
+                53.42392774293786,
+                54.458099146318226,
+                51.74549229363027
+            ],
+            "skewness_color": 0.16248309163364627,
+            "kurtosis_color": 2.5395977334624167
+        },
+        "texture_features": {
+            "contrast": 47.57274949899801,
+            "dissimilarity": 3.19836873747495,
+            "homogeneity": 0.46282560839101666,
+            "energy": 0.03208986079162453,
+            "correlation": 0.9895231094657229,
+            "ASM": 0.001029759165625841
+        },
+        "shape_features": {
+            "largest_contour_area": 459.0,
+            "largest_contour_perimeter": 105.39696860313416,
+            "largest_contour_centroid": [
+                119,
+                140
+            ],
+            "bounding_box": {
+                "x": 109,
+                "y": 121,
+                "width": 26,
+                "height": 41
+            },
+            "aspect_ratio": 0.6341463414634146,
+            "extent": 0.43058161350844276
+        }
+    },
+    "image_18.jpg": {
+        "intensity_features": {
+            "mean_intensity": 200.10619466666665,
+            "norm_intensity": 175535.66429646141,
+            "mean_color": [
+                227.409292,
+                190.956028,
+                181.953264
+            ],
+            "std_color": [
+                16.98257118516111,
+                19.479083717245164,
+                36.014640574982714
+            ],
+            "skewness_color": -2.6426337137312013,
+            "kurtosis_color": 13.8760910367095
+        },
+        "texture_features": {
+            "contrast": 84.8824008016032,
+            "dissimilarity": 2.1909619238476954,
+            "homogeneity": 0.6445098092116965,
+            "energy": 0.1264084999952484,
+            "correlation": 0.8884185027911159,
+            "ASM": 0.01597910887104871
+        },
+        "shape_features": {
+            "largest_contour_area": 1094.0,
+            "largest_contour_perimeter": 609.2691138982773,
+            "largest_contour_centroid": [
+                373,
+                242
+            ],
+            "bounding_box": {
+                "x": 324,
+                "y": 221,
+                "width": 70,
+                "height": 49
+            },
+            "aspect_ratio": 1.4285714285714286,
+            "extent": 0.3189504373177843
+        }
+    },
+    "image_19.jpg": {
+        "intensity_features": {
+            "mean_intensity": 69.10638533333334,
+            "norm_intensity": 92086.99438574375,
+            "mean_color": [
+                77.306004,
+                66.882744,
+                63.130408
+            ],
+            "std_color": [
+                79.5178921095905,
+                81.89563662999207,
+                80.34363423292328
+            ],
+            "skewness_color": 0.7969809914606618,
+            "kurtosis_color": 2.0231988399925274
+        },
+        "texture_features": {
+            "contrast": 256.732869739479,
+            "dissimilarity": 6.739771543086173,
+            "homogeneity": 0.4753273652313434,
+            "energy": 0.1299329034670429,
+            "correlation": 0.9804248276918512,
+            "ASM": 0.01688255940337589
+        },
+        "shape_features": {
+            "largest_contour_area": 250.0,
+            "largest_contour_perimeter": 976.8569868803024,
+            "largest_contour_centroid": [
+                359,
+                386
+            ],
+            "bounding_box": {
+                "x": 322,
+                "y": 359,
+                "width": 71,
+                "height": 57
+            },
+            "aspect_ratio": 1.2456140350877194,
+            "extent": 0.06177415369409439
+        }
+    },
+    "image_20.jpg": {
+        "intensity_features": {
+            "mean_intensity": 113.23484,
+            "norm_intensity": 110304.317485763,
+            "mean_color": [
+                113.245296,
+                113.245328,
+                113.213896
+            ],
+            "std_color": [
+                58.326725725627426,
+                58.32675892052209,
+                58.29034616899379
+            ],
+            "skewness_color": 0.3715933016083751,
+            "kurtosis_color": 2.000531504439309
+        },
+        "texture_features": {
+            "contrast": 206.42794388777557,
+            "dissimilarity": 4.080480961923848,
+            "homogeneity": 0.49484124576381805,
+            "energy": 0.030109340865248604,
+            "correlation": 0.9696575485564507,
+            "ASM": 0.0009065724073397295
+        },
+        "shape_features": {
+            "largest_contour_area": 3200.0,
+            "largest_contour_perimeter": 2467.2530831098557,
+            "largest_contour_centroid": [
+                337,
+                142
+            ],
+            "bounding_box": {
+                "x": 210,
+                "y": 80,
+                "width": 253,
+                "height": 175
+            },
+            "aspect_ratio": 1.4457142857142857,
+            "extent": 0.0722755505364201
+        }
+    },
+    "image_21.jpg": {
+        "intensity_features": {
+            "mean_intensity": 119.63931333333333,
+            "norm_intensity": 115323.60227204143,
+            "mean_color": [
+                91.068984,
+                139.096296,
+                128.75266
+            ],
+            "std_color": [
+                65.3698630349295,
+                46.70510926098302,
+                50.24897884459461
+            ],
+            "skewness_color": -0.38303786483790175,
+            "kurtosis_color": 2.316803069018114
+        },
+        "texture_features": {
+            "contrast": 22.056416833667335,
+            "dissimilarity": 2.0344288577154304,
+            "homogeneity": 0.4965375505509045,
+            "energy": 0.03248547186521528,
+            "correlation": 0.9952696972105847,
+            "ASM": 0.0010553058823056937
+        },
+        "shape_features": {
+            "largest_contour_area": 141.0,
+            "largest_contour_perimeter": 277.1959580183029,
+            "largest_contour_centroid": [
+                124,
+                385
+            ],
+            "bounding_box": {
+                "x": 100,
+                "y": 378,
+                "width": 91,
+                "height": 20
+            },
+            "aspect_ratio": 4.55,
+            "extent": 0.07747252747252747
+        }
+    },
+    "image_22.jpg": {
+        "intensity_features": {
+            "mean_intensity": 157.07004133333334,
+            "norm_intensity": 148994.67353231122,
+            "mean_color": [
+                216.70256,
+                186.4226,
+                68.084964
+            ],
+            "std_color": [
+                25.273311960376013,
+                28.170791278198873,
+                31.880551455693418
+            ],
+            "skewness_color": -0.6101244736212601,
+            "kurtosis_color": 1.9575279139476192
+        },
+        "texture_features": {
+            "contrast": 35.802016032064124,
+            "dissimilarity": 1.4411262525050101,
+            "homogeneity": 0.719548147234406,
+            "energy": 0.07526574182082969,
+            "correlation": 0.9756930345970295,
+            "ASM": 0.005664931891839792
+        },
+        "shape_features": {
+            "largest_contour_area": 72.0,
+            "largest_contour_perimeter": 69.94112479686737,
+            "largest_contour_centroid": [
+                250,
+                369
+            ],
+            "bounding_box": {
+                "x": 245,
+                "y": 348,
+                "width": 12,
+                "height": 29
+            },
+            "aspect_ratio": 0.41379310344827586,
+            "extent": 0.20689655172413793
+        }
+    },
+    "image_23.jpg": {
+        "intensity_features": {
+            "mean_intensity": 50.506732,
+            "norm_intensity": 62867.93323308792,
+            "mean_color": [
+                65.047756,
+                52.358112,
+                34.114328
+            ],
+            "std_color": [
+                65.96192934841403,
+                44.25126153903511,
+                36.93220839739209
+            ],
+            "skewness_color": 1.8246364929862615,
+            "kurtosis_color": 5.524192805830403
+        },
+        "texture_features": {
+            "contrast": 121.52456913827655,
+            "dissimilarity": 4.471711422845693,
+            "homogeneity": 0.45329141388558386,
+            "energy": 0.06269839435154964,
+            "correlation": 0.9719918690351296,
+            "ASM": 0.0039310886542624325
+        },
+        "shape_features": {
+            "largest_contour_area": 273.5,
+            "largest_contour_perimeter": 1040.9574918746948,
+            "largest_contour_centroid": [
+                108,
+                177
+            ],
+            "bounding_box": {
+                "x": 66,
+                "y": 148,
+                "width": 77,
+                "height": 57
+            },
+            "aspect_ratio": 1.3508771929824561,
+            "extent": 0.06231487810435179
+        }
+    },
+    "image_24.jpg": {
+        "intensity_features": {
+            "mean_intensity": 67.03735733333333,
+            "norm_intensity": 68042.48078957733,
+            "mean_color": [
+                86.250868,
+                64.910748,
+                49.950456
+            ],
+            "std_color": [
+                38.2754142139011,
+                34.559714207151956,
+                41.37716879381742
+            ],
+            "skewness_color": 0.6168691020327287,
+            "kurtosis_color": 3.5813953569239168
+        },
+        "texture_features": {
+            "contrast": 64.20468136272545,
+            "dissimilarity": 2.273066132264529,
+            "homogeneity": 0.6061749892788441,
+            "energy": 0.06146458921465592,
+            "correlation": 0.9698612497382525,
+            "ASM": 0.003777895727326397
+        },
+        "shape_features": {
+            "largest_contour_area": 786.5,
+            "largest_contour_perimeter": 411.5462431907654,
+            "largest_contour_centroid": [
+                360,
+                250
+            ],
+            "bounding_box": {
+                "x": 334,
+                "y": 223,
+                "width": 56,
+                "height": 54
+            },
+            "aspect_ratio": 1.037037037037037,
+            "extent": 0.26008597883597884
+        }
+    },
+    "image_25.jpg": {
+        "intensity_features": {
+            "mean_intensity": 60.897810666666665,
+            "norm_intensity": 69718.85640198067,
+            "mean_color": [
+                66.496496,
+                60.153144,
+                56.043792
+            ],
+            "std_color": [
+                53.1422672805999,
+                50.06855351334431,
+                54.137083355692404
+            ],
+            "skewness_color": 1.6676641234708711,
+            "kurtosis_color": 4.7626041938458235
+        },
+        "texture_features": {
+            "contrast": 135.39624048096192,
+            "dissimilarity": 7.519134268537076,
+            "homogeneity": 0.20815287045462796,
+            "energy": 0.03119372935075622,
+            "correlation": 0.973197933800031,
+            "ASM": 0.00097304875080823
+        },
+        "shape_features": {
+            "largest_contour_area": 176.5,
+            "largest_contour_perimeter": 1806.4864914417267,
+            "largest_contour_centroid": [
+                187,
+                171
+            ],
+            "bounding_box": {
+                "x": 0,
+                "y": 73,
+                "width": 255,
+                "height": 427
+            },
+            "aspect_ratio": 0.5971896955503513,
+            "extent": 0.0016209762593562015
+        }
+    },
+    "image_26.jpg": {
+        "intensity_features": {
+            "mean_intensity": 150.36925733333334,
+            "norm_intensity": 147484.36080140836,
+            "mean_color": [
+                148.944912,
+                148.96584,
+                153.19702
+            ],
+            "std_color": [
+                82.56631088593844,
+                81.0136165412468,
+                76.03558200683965
+            ],
+            "skewness_color": -0.6057656409574289,
+            "kurtosis_color": 1.808316720241414
+        },
+        "texture_features": {
+            "contrast": 118.67776753507015,
+            "dissimilarity": 3.0422885771543084,
+            "homogeneity": 0.5605021965201029,
+            "energy": 0.0658003937412135,
+            "correlation": 0.9909406286584652,
+            "ASM": 0.004329691816498729
+        },
+        "shape_features": {
+            "largest_contour_area": 1511.0,
+            "largest_contour_perimeter": 263.3380935192108,
+            "largest_contour_centroid": [
+                261,
+                158
+            ],
+            "bounding_box": {
+                "x": 215,
+                "y": 148,
+                "width": 96,
+                "height": 23
+            },
+            "aspect_ratio": 4.173913043478261,
+            "extent": 0.6843297101449275
+        }
+    },
+    "image_27.jpg": {
+        "intensity_features": {
+            "mean_intensity": 144.26713333333333,
+            "norm_intensity": 141487.08508552998,
+            "mean_color": [
+                139.783544,
+                142.95062,
+                150.067236
+            ],
+            "std_color": [
+                77.51259476239208,
+                79.23801737559987,
+                72.75315104736498
+            ],
+            "skewness_color": -0.42420383913308046,
+            "kurtosis_color": 1.5583412550103983
+        },
+        "texture_features": {
+            "contrast": 644.1677595190381,
+            "dissimilarity": 13.352112224448899,
+            "homogeneity": 0.36255452432873453,
+            "energy": 0.04005775185204264,
+            "correlation": 0.9470144027616746,
+            "ASM": 0.0016046234834398258
+        },
+        "shape_features": {
+            "largest_contour_area": 1534.5,
+            "largest_contour_perimeter": 5493.865669488907,
+            "largest_contour_centroid": [
+                179,
+                200
+            ],
+            "bounding_box": {
+                "x": 78,
+                "y": 49,
+                "width": 191,
+                "height": 215
+            },
+            "aspect_ratio": 0.8883720930232558,
+            "extent": 0.037367587970291
+        }
+    },
+    "image_28.jpg": {
+        "intensity_features": {
+            "mean_intensity": 231.778284,
+            "norm_intensity": 207065.90908935253,
+            "mean_color": [
+                251.512212,
+                232.701128,
+                211.121512
+            ],
+            "std_color": [
+                14.094877752824342,
+                45.658290413937536,
+                85.0959292729937
+            ],
+            "skewness_color": -2.7592803766190572,
+            "kurtosis_color": 9.645860111190613
+        },
+        "texture_features": {
+            "contrast": 12.457306613226452,
+            "dissimilarity": 1.1074549098196393,
+            "homogeneity": 0.805241134438401,
+            "energy": 0.5439300656754666,
+            "correlation": 0.9958337278942991,
+            "ASM": 0.2958599163457175
+        },
+        "shape_features": {
+            "largest_contour_area": 56.5,
+            "largest_contour_perimeter": 503.62950444221497,
+            "largest_contour_centroid": [
+                218,
+                235
+            ],
+            "bounding_box": {
+                "x": 149,
+                "y": 189,
+                "width": 138,
+                "height": 63
+            },
+            "aspect_ratio": 2.1904761904761907,
+            "extent": 0.006498734759604325
+        }
+    },
+    "image_29.jpg": {
+        "intensity_features": {
+            "mean_intensity": 81.231916,
+            "norm_intensity": 90725.44048391278,
+            "mean_color": [
+                99.529208,
+                125.795336,
+                18.371204
+            ],
+            "std_color": [
+                53.473055597112676,
+                54.167606857305756,
+                32.60205446890203
+            ],
+            "skewness_color": 0.1636067196549603,
+            "kurtosis_color": 1.6506922481046646
+        },
+        "texture_features": {
+            "contrast": 93.17592785571142,
+            "dissimilarity": 5.481266533066132,
+            "homogeneity": 0.24416449791583866,
+            "energy": 0.018844835333952377,
+            "correlation": 0.9810210010735981,
+            "ASM": 0.00035512781876378003
+        },
+        "shape_features": {
+            "largest_contour_area": 274.5,
+            "largest_contour_perimeter": 789.1097319126129,
+            "largest_contour_centroid": [
+                346,
+                429
+            ],
+            "bounding_box": {
+                "x": 307,
+                "y": 332,
+                "width": 110,
+                "height": 168
+            },
+            "aspect_ratio": 0.6547619047619048,
+            "extent": 0.014853896103896104
+        }
+    },
+    "image_30.jpg": {
+        "intensity_features": {
+            "mean_intensity": 38.986505333333334,
+            "norm_intensity": 62999.42527515628,
+            "mean_color": [
+                49.891204,
+                39.018192,
+                28.05012
+            ],
+            "std_color": [
+                71.41455935188971,
+                59.22676561367563,
+                49.69406918317632
+            ],
+            "skewness_color": 1.5923018380869531,
+            "kurtosis_color": 4.498519961755375
+        },
+        "texture_features": {
+            "contrast": 1096.0649659318635,
+            "dissimilarity": 15.865350701402802,
+            "homogeneity": 0.4809269949027612,
+            "energy": 0.41627789525166514,
+            "correlation": 0.8533803002706223,
+            "ASM": 0.1732872860751563
+        },
+        "shape_features": {
+            "largest_contour_area": 2565.0,
+            "largest_contour_perimeter": 6130.019117593765,
+            "largest_contour_centroid": [
+                336,
+                346
+            ],
+            "bounding_box": {
+                "x": 161,
+                "y": 277,
+                "width": 288,
+                "height": 145
+            },
+            "aspect_ratio": 1.986206896551724,
+            "extent": 0.061422413793103446
+        }
+    },
+    "image_31.jpg": {
+        "intensity_features": {
+            "mean_intensity": 127.68892133333334,
+            "norm_intensity": 121005.02370976174,
+            "mean_color": [
+                139.89186,
+                130.239664,
+                112.93524
+            ],
+            "std_color": [
+                60.80953429965485,
+                59.000335466561715,
+                45.864506954113544
+            ],
+            "skewness_color": 0.3343392609134309,
+            "kurtosis_color": 1.9582038129145067
+        },
+        "texture_features": {
+            "contrast": 1268.735755511022,
+            "dissimilarity": 18.362104208416834,
+            "homogeneity": 0.24362562103412985,
+            "energy": 0.02234647709807127,
+            "correlation": 0.8004424135362622,
+            "ASM": 0.0004993650386946238
+        },
+        "shape_features": {
+            "largest_contour_area": 2072.5,
+            "largest_contour_perimeter": 3829.794269800186,
+            "largest_contour_centroid": [
+                315,
+                143
+            ],
+            "bounding_box": {
+                "x": 155,
+                "y": 81,
+                "width": 216,
+                "height": 161
+            },
+            "aspect_ratio": 1.3416149068322982,
+            "extent": 0.059595698182654706
+        }
+    },
+    "image_32.jpg": {
+        "intensity_features": {
+            "mean_intensity": 98.4136,
+            "norm_intensity": 100569.51845365473,
+            "mean_color": [
+                112.40414,
+                115.059608,
+                67.777052
+            ],
+            "std_color": [
+                64.04679410291192,
+                54.51155443469209,
+                54.002573144140236
+            ],
+            "skewness_color": 0.5528912246934147,
+            "kurtosis_color": 2.6375314472872864
+        },
+        "texture_features": {
+            "contrast": 409.6035270541083,
+            "dissimilarity": 9.999927855711425,
+            "homogeneity": 0.29693113880201205,
+            "energy": 0.023406367525328667,
+            "correlation": 0.9292333608758991,
+            "ASM": 0.0005478580407307604
+        },
+        "shape_features": {
+            "largest_contour_area": 1390.0,
+            "largest_contour_perimeter": 3366.7618650197983,
+            "largest_contour_centroid": [
+                451,
+                455
+            ],
+            "bounding_box": {
+                "x": 363,
+                "y": 408,
+                "width": 137,
+                "height": 92
+            },
+            "aspect_ratio": 1.4891304347826086,
+            "extent": 0.11028245001586798
+        }
+    },
+    "image_33.jpg": {
+        "intensity_features": {
+            "mean_intensity": 132.63838666666666,
+            "norm_intensity": 131814.10636195203,
+            "mean_color": [
+                142.334104,
+                142.782796,
+                112.79826
+            ],
+            "std_color": [
+                72.47804913571716,
+                74.69188755428745,
+                72.79091575858376
+            ],
+            "skewness_color": -0.4169271790801273,
+            "kurtosis_color": 1.5812287422150706
+        },
+        "texture_features": {
+            "contrast": 152.0493507014028,
+            "dissimilarity": 4.708012024048097,
+            "homogeneity": 0.5107887125512574,
+            "energy": 0.05308248624908361,
+            "correlation": 0.9859320564432258,
+            "ASM": 0.002817750346384151
+        },
+        "shape_features": {
+            "largest_contour_area": 1324.5,
+            "largest_contour_perimeter": 2071.0449273586273,
+            "largest_contour_centroid": [
+                341,
+                123
+            ],
+            "bounding_box": {
+                "x": 295,
+                "y": 91,
+                "width": 129,
+                "height": 73
+            },
+            "aspect_ratio": 1.7671232876712328,
+            "extent": 0.14064988849952215
+        }
+    },
+    "image_34.jpg": {
+        "intensity_features": {
+            "mean_intensity": 82.02828133333334,
+            "norm_intensity": 87317.95276459475,
+            "mean_color": [
+                98.352364,
+                73.80768,
+                73.9248
+            ],
+            "std_color": [
+                54.97757742581564,
+                56.09610821632767,
+                61.17805927748929
+            ],
+            "skewness_color": 1.0354925395902221,
+            "kurtosis_color": 3.2222366609420035
+        },
+        "texture_features": {
+            "contrast": 351.9515951903808,
+            "dissimilarity": 7.528012024048098,
+            "homogeneity": 0.4337327040305521,
+            "energy": 0.03213402551815789,
+            "correlation": 0.9374008531752804,
+            "ASM": 0.0010325955960016225
+        },
+        "shape_features": {
+            "largest_contour_area": 496.5,
+            "largest_contour_perimeter": 412.1736602783203,
+            "largest_contour_centroid": [
+                202,
+                152
+            ],
+            "bounding_box": {
+                "x": 177,
+                "y": 126,
+                "width": 44,
+                "height": 47
+            },
+            "aspect_ratio": 0.9361702127659575,
+            "extent": 0.2400870406189555
+        }
+    },
+    "image_35.jpg": {
+        "intensity_features": {
+            "mean_intensity": 119.04493066666667,
+            "norm_intensity": 120517.7049482772,
+            "mean_color": [
+                127.91398,
+                123.212296,
+                106.008516
+            ],
+            "std_color": [
+                73.122918681897,
+                68.44270639307413,
+                72.7024201762071
+            ],
+            "skewness_color": 0.10859402884032184,
+            "kurtosis_color": 1.7546660990290028
+        },
+        "texture_features": {
+            "contrast": 1050.4067775551102,
+            "dissimilarity": 18.832188376753507,
+            "homogeneity": 0.11110920517331821,
+            "energy": 0.009634855809199764,
+            "correlation": 0.886517435106216,
+            "ASM": 9.283044646407043e-05
+        },
+        "shape_features": {
+            "largest_contour_area": 2726.0,
+            "largest_contour_perimeter": 1007.61225938797,
+            "largest_contour_centroid": [
+                190,
+                35
+            ],
+            "bounding_box": {
+                "x": 135,
+                "y": 0,
+                "width": 143,
+                "height": 112
+            },
+            "aspect_ratio": 1.2767857142857142,
+            "extent": 0.1702047952047952
+        }
+    },
+    "image_36.jpg": {
+        "intensity_features": {
+            "mean_intensity": 178.563992,
+            "norm_intensity": 161355.88781944092,
+            "mean_color": [
+                178.720168,
+                178.041688,
+                178.93012
+            ],
+            "std_color": [
+                58.81818683070501,
+                51.30330786714218,
+                48.944383506029865
+            ],
+            "skewness_color": -1.0779789355534073,
+            "kurtosis_color": 3.568462165379518
+        },
+        "texture_features": {
+            "contrast": 61.32729058116232,
+            "dissimilarity": 4.3322204408817635,
+            "homogeneity": 0.30599915141864387,
+            "energy": 0.029793641429577866,
+            "correlation": 0.9889201098875466,
+            "ASM": 0.0008876610696342585
+        },
+        "shape_features": {
+            "largest_contour_area": 273.5,
+            "largest_contour_perimeter": 1032.898617863655,
+            "largest_contour_centroid": [
+                452,
+                385
+            ],
+            "bounding_box": {
+                "x": 332,
+                "y": 289,
+                "width": 168,
+                "height": 164
+            },
+            "aspect_ratio": 1.024390243902439,
+            "extent": 0.009926684088269454
+        }
+    },
+    "image_37.jpg": {
+        "intensity_features": {
+            "mean_intensity": 129.777696,
+            "norm_intensity": 127438.79770305431,
+            "mean_color": [
+                154.931564,
+                123.811888,
+                110.589636
+            ],
+            "std_color": [
+                57.72704461960551,
+                70.04224112545039,
+                71.8402442464386
+            ],
+            "skewness_color": -0.24027971121621605,
+            "kurtosis_color": 2.030490069216483
+        },
+        "texture_features": {
+            "contrast": 242.08070541082165,
+            "dissimilarity": 8.524336673346692,
+            "homogeneity": 0.1839865617525805,
+            "energy": 0.01594590576149803,
+            "correlation": 0.9703511811601215,
+            "ASM": 0.0002542719105545761
+        },
+        "shape_features": {
+            "largest_contour_area": 4931.0,
+            "largest_contour_perimeter": 297.73001170158386,
+            "largest_contour_centroid": [
+                72,
+                297
+            ],
+            "bounding_box": {
+                "x": 22,
+                "y": 250,
+                "width": 106,
+                "height": 96
+            },
+            "aspect_ratio": 1.1041666666666667,
+            "extent": 0.48457154088050314
+        }
+    },
+    "image_38.jpg": {
+        "intensity_features": {
+            "mean_intensity": 159.842096,
+            "norm_intensity": 147898.2991653386,
+            "mean_color": [
+                151.569044,
+                163.704384,
+                164.25286
+            ],
+            "std_color": [
+                67.44113611828853,
+                57.63023015033922,
+                53.616926971064906
+            ],
+            "skewness_color": -0.584319361413978,
+            "kurtosis_color": 2.371025891618573
+        },
+        "texture_features": {
+            "contrast": 82.8393627254509,
+            "dissimilarity": 4.4466092184368735,
+            "homogeneity": 0.41107484359684376,
+            "energy": 0.07217599269974113,
+            "correlation": 0.9882217760245006,
+            "ASM": 0.005209373922193085
+        },
+        "shape_features": {
+            "largest_contour_area": 51461.0,
+            "largest_contour_perimeter": 1027.1858533620834,
+            "largest_contour_centroid": [
+                183,
+                212
+            ],
+            "bounding_box": {
+                "x": 8,
+                "y": 118,
+                "width": 354,
+                "height": 198
+            },
+            "aspect_ratio": 1.7878787878787878,
+            "extent": 0.7341922045311876
+        }
+    },
+    "image_39.jpg": {
+        "intensity_features": {
+            "mean_intensity": 212.495996,
+            "norm_intensity": 187164.77581265123,
+            "mean_color": [
+                214.228116,
+                212.758356,
+                210.501516
+            ],
+            "std_color": [
+                37.08323264077794,
+                39.4060094424303,
+                41.52013397981685
+            ],
+            "skewness_color": -2.1578464135277162,
+            "kurtosis_color": 8.156299984796387
+        },
+        "texture_features": {
+            "contrast": 77.50936673346693,
+            "dissimilarity": 4.603418837675351,
+            "homogeneity": 0.31587408765972436,
+            "energy": 0.03851461531508662,
+            "correlation": 0.9744208495523712,
+            "ASM": 0.0014833755928691048
+        },
+        "shape_features": {
+            "largest_contour_area": 642.5,
+            "largest_contour_perimeter": 605.771639585495,
+            "largest_contour_centroid": [
+                442,
+                204
+            ],
+            "bounding_box": {
+                "x": 424,
+                "y": 167,
+                "width": 50,
+                "height": 72
+            },
+            "aspect_ratio": 0.6944444444444444,
+            "extent": 0.17847222222222223
+        }
+    },
+    "image_40.jpg": {
+        "intensity_features": {
+            "mean_intensity": 63.460852,
+            "norm_intensity": 69472.66301934884,
+            "mean_color": [
+                63.460852,
+                63.460852,
+                63.460852
+            ],
+            "std_color": [
+                49.071255735247256,
+                49.071255735247256,
+                49.071255735247256
+            ],
+            "skewness_color": 1.0637123446417251,
+            "kurtosis_color": 3.497563942880608
+        },
+        "texture_features": {
+            "contrast": 91.0331863727455,
+            "dissimilarity": 5.616088176352706,
+            "homogeneity": 0.21343923443384838,
+            "energy": 0.022377491133486783,
+            "correlation": 0.9810957491638324,
+            "ASM": 0.0005007521094292796
+        },
+        "shape_features": {
+            "largest_contour_area": 845.0,
+            "largest_contour_perimeter": 1102.3473212718964,
+            "largest_contour_centroid": [
+                311,
+                342
+            ],
+            "bounding_box": {
+                "x": 212,
+                "y": 287,
+                "width": 155,
+                "height": 72
+            },
+            "aspect_ratio": 2.1527777777777777,
+            "extent": 0.07571684587813621
+        }
+    },
+    "image_41.jpg": {
+        "intensity_features": {
+            "mean_intensity": 128.298888,
+            "norm_intensity": 121980.63676666064,
+            "mean_color": [
+                134.407116,
+                126.916264,
+                123.573284
+            ],
+            "std_color": [
+                56.312769533762086,
+                59.435838517532076,
+                58.05160336678271
+            ],
+            "skewness_color": -0.2663046359547694,
+            "kurtosis_color": 2.612320100621186
+        },
+        "texture_features": {
+            "contrast": 448.68773146292585,
+            "dissimilarity": 10.837775551102206,
+            "homogeneity": 0.1639720287197176,
+            "energy": 0.014518911251902699,
+            "correlation": 0.9323358246964276,
+            "ASM": 0.0002107987839406268
+        },
+        "shape_features": {
+            "largest_contour_area": 652.0,
+            "largest_contour_perimeter": 191.0538227558136,
+            "largest_contour_centroid": [
+                401,
+                319
+            ],
+            "bounding_box": {
+                "x": 393,
+                "y": 283,
+                "width": 16,
+                "height": 75
+            },
+            "aspect_ratio": 0.21333333333333335,
+            "extent": 0.5433333333333333
+        }
+    },
+    "image_42.jpg": {
+        "intensity_features": {
+            "mean_intensity": 87.22849066666667,
+            "norm_intensity": 97450.05889172156,
+            "mean_color": [
+                34.30142,
+                97.802932,
+                129.58112
+            ],
+            "std_color": [
+                41.41088047826422,
+                61.443416898829724,
+                70.44596388399036
+            ],
+            "skewness_color": 0.4099164563847784,
+            "kurtosis_color": 2.034542326830461
+        },
+        "texture_features": {
+            "contrast": 909.3979639278556,
+            "dissimilarity": 19.124496993987975,
+            "homogeneity": 0.09214961763916737,
+            "energy": 0.01562721878736728,
+            "correlation": 0.8486494540497206,
+            "ASM": 0.00024420996702824487
+        },
+        "shape_features": {
+            "largest_contour_area": 2843.5,
+            "largest_contour_perimeter": 609.0853469371796,
+            "largest_contour_centroid": [
+                233,
+                205
+            ],
+            "bounding_box": {
+                "x": 210,
+                "y": 124,
+                "width": 53,
+                "height": 129
+            },
+            "aspect_ratio": 0.4108527131782946,
+            "extent": 0.41589878601725905
+        }
+    },
+    "image_43.jpg": {
+        "intensity_features": {
+            "mean_intensity": 177.85021733333335,
+            "norm_intensity": 166273.50706291126,
+            "mean_color": [
+                166.497016,
+                172.929932,
+                194.123704
+            ],
+            "std_color": [
+                77.69538127261228,
+                72.41767263919533,
+                63.218627391946626
+            ],
+            "skewness_color": -0.9101472218435697,
+            "kurtosis_color": 2.4742219612272356
+        },
+        "texture_features": {
+            "contrast": 60.16009619238477,
+            "dissimilarity": 3.811943887775551,
+            "homogeneity": 0.47087096545916873,
+            "energy": 0.10220459562244708,
+            "correlation": 0.9942845022090685,
+            "ASM": 0.010445779366347926
+        },
+        "shape_features": {
+            "largest_contour_area": 3863.0,
+            "largest_contour_perimeter": 3094.2967950105667,
+            "largest_contour_centroid": [
+                331,
+                293
+            ],
+            "bounding_box": {
+                "x": 159,
+                "y": 0,
+                "width": 256,
+                "height": 360
+            },
+            "aspect_ratio": 0.7111111111111111,
+            "extent": 0.04191623263888889
+        }
+    },
+    "image_44.jpg": {
+        "intensity_features": {
+            "mean_intensity": 46.493368,
+            "norm_intensity": 50552.403800412896,
+            "mean_color": [
+                49.225184,
+                48.381168,
+                41.873752
+            ],
+            "std_color": [
+                42.13509867279424,
+                31.61185497492763,
+                30.49981871163389
+            ],
+            "skewness_color": 1.9203508273107237,
+            "kurtosis_color": 7.183959623405152
+        },
+        "texture_features": {
+            "contrast": 242.11058517034073,
+            "dissimilarity": 8.888252505010023,
+            "homogeneity": 0.1405866969304407,
+            "energy": 0.02155566077529969,
+            "correlation": 0.885973563622101,
+            "ASM": 0.00046464651145979355
+        },
+        "shape_features": {
+            "largest_contour_area": 1054.5,
+            "largest_contour_perimeter": 1253.6437829732895,
+            "largest_contour_centroid": [
+                251,
+                240
+            ],
+            "bounding_box": {
+                "x": 177,
+                "y": 145,
+                "width": 147,
+                "height": 204
+            },
+            "aspect_ratio": 0.7205882352941176,
+            "extent": 0.0351640656262505
+        }
+    },
+    "image_45.jpg": {
+        "intensity_features": {
+            "mean_intensity": 53.88461733333333,
+            "norm_intensity": 66971.66479191031,
+            "mean_color": [
+                18.415652,
+                57.313712,
+                85.924488
+            ],
+            "std_color": [
+                34.54155360450679,
+                48.95315835348188,
+                57.82965884334426
+            ],
+            "skewness_color": 1.0274644500564698,
+            "kurtosis_color": 3.24268719217998
+        },
+        "texture_features": {
+            "contrast": 59.79282565130261,
+            "dissimilarity": 3.0445531062124247,
+            "homogeneity": 0.5025629686012546,
+            "energy": 0.05581080566279981,
+            "correlation": 0.9835264979224848,
+            "ASM": 0.0031148460287308073
+        },
+        "shape_features": {
+            "largest_contour_area": 432.0,
+            "largest_contour_perimeter": 1109.8275500535965,
+            "largest_contour_centroid": [
+                451,
+                348
+            ],
+            "bounding_box": {
+                "x": 413,
+                "y": 327,
+                "width": 87,
+                "height": 53
+            },
+            "aspect_ratio": 1.6415094339622642,
+            "extent": 0.0936890045543266
+        }
+    },
+    "image_46.jpg": {
+        "intensity_features": {
+            "mean_intensity": 84.36786133333334,
+            "norm_intensity": 87097.62978405325,
+            "mean_color": [
+                71.708348,
+                86.979456,
+                94.41578
+            ],
+            "std_color": [
+                62.9900414915561,
+                48.83585741996124,
+                48.6769936108567
+            ],
+            "skewness_color": 0.5031615036429186,
+            "kurtosis_color": 2.6114271012823704
+        },
+        "texture_features": {
+            "contrast": 232.56135871743487,
+            "dissimilarity": 7.60301002004008,
+            "homogeneity": 0.22167036520780892,
+            "energy": 0.020798124281932066,
+            "correlation": 0.9573429692770115,
+            "ASM": 0.0004325619736466922
+        },
+        "shape_features": {
+            "largest_contour_area": 5883.0,
+            "largest_contour_perimeter": 1348.9604576826096,
+            "largest_contour_centroid": [
+                141,
+                297
+            ],
+            "bounding_box": {
+                "x": 0,
+                "y": 241,
+                "width": 199,
+                "height": 100
+            },
+            "aspect_ratio": 1.99,
+            "extent": 0.29562814070351756
+        }
+    },
+    "image_47.jpg": {
+        "intensity_features": {
+            "mean_intensity": 82.01937066666666,
+            "norm_intensity": 87482.66486567496,
+            "mean_color": [
+                93.872228,
+                90.994696,
+                61.191188
+            ],
+            "std_color": [
+                66.96208681273023,
+                58.51433564407217,
+                43.2276148214372
+            ],
+            "skewness_color": 1.1478991308186715,
+            "kurtosis_color": 3.988130739354671
+        },
+        "texture_features": {
+            "contrast": 197.42361122244492,
+            "dissimilarity": 9.705799599198395,
+            "homogeneity": 0.13170019329065788,
+            "energy": 0.013645889651330458,
+            "correlation": 0.9669565233580378,
+            "ASM": 0.00018621030437628768
+        },
+        "shape_features": {
+            "largest_contour_area": 15520.5,
+            "largest_contour_perimeter": 607.1686096191406,
+            "largest_contour_centroid": [
+                367,
+                214
+            ],
+            "bounding_box": {
+                "x": 296,
+                "y": 135,
+                "width": 138,
+                "height": 162
+            },
+            "aspect_ratio": 0.8518518518518519,
+            "extent": 0.6942431561996779
+        }
+    },
+    "image_48.jpg": {
+        "intensity_features": {
+            "mean_intensity": 92.86223066666666,
+            "norm_intensity": 110240.22567556727,
+            "mean_color": [
+                88.448184,
+                95.59322,
+                94.545288
+            ],
+            "std_color": [
+                87.39139996077017,
+                85.78397849271353,
+                87.83806252982673
+            ],
+            "skewness_color": 0.43949683467719225,
+            "kurtosis_color": 1.6066176565293429
+        },
+        "texture_features": {
+            "contrast": 161.75997995991983,
+            "dissimilarity": 4.98471743486974,
+            "homogeneity": 0.3984754477598778,
+            "energy": 0.07174795224625942,
+            "correlation": 0.9888719702513167,
+            "ASM": 0.005147768651531522
+        },
+        "shape_features": {
+            "largest_contour_area": 145.5,
+            "largest_contour_perimeter": 1135.5849071741104,
+            "largest_contour_centroid": [
+                279,
+                405
+            ],
+            "bounding_box": {
+                "x": 110,
+                "y": 361,
+                "width": 253,
+                "height": 105
+            },
+            "aspect_ratio": 2.4095238095238094,
+            "extent": 0.005477131564088086
+        }
+    },
+    "image_49.jpg": {
+        "intensity_features": {
+            "mean_intensity": 194.00680266666666,
+            "norm_intensity": 177066.36917269186,
+            "mean_color": [
+                189.702672,
+                194.406728,
+                197.911008
+            ],
+            "std_color": [
+                67.03388053857533,
+                64.55813389755812,
+                61.63485890636695
+            ],
+            "skewness_color": -1.563470727801416,
+            "kurtosis_color": 4.111298599533205
+        },
+        "texture_features": {
+            "contrast": 376.1901883767535,
+            "dissimilarity": 8.617771543086173,
+            "homogeneity": 0.44498235023396787,
+            "energy": 0.06748975936396237,
+            "correlation": 0.9554484389231944,
+            "ASM": 0.004554867619005546
+        },
+        "shape_features": {
+            "largest_contour_area": 943.5,
+            "largest_contour_perimeter": 2810.2551666498184,
+            "largest_contour_centroid": [
+                310,
+                299
+            ],
+            "bounding_box": {
+                "x": 234,
+                "y": 165,
+                "width": 179,
+                "height": 215
+            },
+            "aspect_ratio": 0.8325581395348837,
+            "extent": 0.024516045212420425
+        }
+    },
+    "image_50.jpg": {
+        "intensity_features": {
+            "mean_intensity": 211.68888133333334,
+            "norm_intensity": 190897.03126816824,
+            "mean_color": [
+                223.524636,
+                210.334064,
+                201.207944
+            ],
+            "std_color": [
+                38.27402399887443,
+                62.61358754492511,
+                75.45214260240165
+            ],
+            "skewness_color": -1.868882498381905,
+            "kurtosis_color": 5.140115758821449
+        },
+        "texture_features": {
+            "contrast": 161.92556312625248,
+            "dissimilarity": 4.227567134268536,
+            "homogeneity": 0.7409718946093217,
+            "energy": 0.28784892127976053,
+            "correlation": 0.974516688639938,
+            "ASM": 0.08285700148192177
+        },
+        "shape_features": {
+            "largest_contour_area": 466.5,
+            "largest_contour_perimeter": 3325.779988884926,
+            "largest_contour_centroid": [
+                329,
+                405
+            ],
+            "bounding_box": {
+                "x": 106,
+                "y": 310,
+                "width": 301,
+                "height": 190
+            },
+            "aspect_ratio": 1.5842105263157895,
+            "extent": 0.00815702045812205
+        }
+    }
+}

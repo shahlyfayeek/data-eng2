@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "675da9392ee111e0e8d3077f"
+  },
+  "filename": "textfile_01.txt",
+  "text": "Love dress ! 's sooo pretty . happened find store , 'm glad bc never would ordered online bc 's petite . bought petite 5 ' 8 '' . love length me- hit little knee . would definitely true midi someone truly petite .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93a2ee111e0e8d30780"
+  },
+  "filename": "textfile_02.txt",
+  "text": "high hope dress really wanted work . initially ordered petite small ( usual size ) found outrageously small . small fact could zip ! reordered petite medium , ok. overall , top half comfortable fit nicely , bottom half tight layer several somewhat cheap ( net ) layer . imo , major design flaw net layer sewn directly zipper - c",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93b2ee111e0e8d30781"
+  },
+  "filename": "textfile_03.txt",
+  "text": "love tracy reese dress , one petite . 5 foot tall usually wear 0p brand . dress pretty package lot dress . skirt long full overwhelmed small frame . stranger alteration , shortening narrowing skirt would take away embellishment garment . love color idea style work . returned dress .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93b2ee111e0e8d30782"
+  },
+  "filename": "textfile_04.txt",
+  "text": "aded basket hte last mintue see would look like person . ( store pick ) . went teh darkler color pale : - ) hte color really gorgeous , turn mathced everythiing trying prefectly . little baggy hte x hte msallet size ( bummer , petite ) . decided jkeep though , said , matvehd everything . ejans , pant , 3 skirt waas trying ( ] kept ) oops .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93b2ee111e0e8d30783"
+  },
+  "filename": "textfile_05.txt",
+  "text": "ordered carbon store pick , ton stuff ( always ) try used top pair ( skirt pant ) . everything went . color really nice charcoal shimmer , went well pencil skirt , flare pant , etc . compaint bit big , sleeve long n't go petite . also bit loose , xx ... kept wil ldecide later since light color already sold hte smallest size ...",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93b2ee111e0e8d30784"
+  },
+  "filename": "textfile_06.txt",
+  "text": "'m 5 '' 5 ' 125 lb . ordered petite make sure length n't long . typically wear x regular retailer dress . 're less busty ( 34b cup smaller ) , petite fit perfectly ( snug , tight ) . love could dress party , work . love tulle longer fabric underneath .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93c2ee111e0e8d30785"
+  },
+  "filename": "textfile_07.txt",
+  "text": "Dress run small esp zipper area run . ordered sp typically fit tight ! material top look feel cheap even pulling cause rip fabric . pretty disappointed going christmas dress year ! needless say going back .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93c2ee111e0e8d30786"
+  },
+  "filename": "textfile_08.txt",
+  "text": "find reliant review written savvy shopper past , right estimation product . case dress-if reveiws-i doubt would even tried . dress beautifully made , lined reminiscent old retailer quality . lined solid periwinkle-colored fabric match outer fabric print . tt form-fitting . fall knee rid",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93c2ee111e0e8d30787"
+  },
+  "filename": "textfile_09.txt",
+  "text": "nice choice holiday gathering . like length graz knee conservative enough office related gathering . size small fit well - usually size 2/4 small bust . opinion run small larger bust definitely size ( perhaps waist big ) . problem dress quality . fabric terrible . delicate netting type fabric top layer skirt got stuck zip",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93c2ee111e0e8d30788"
+  },
+  "filename": "textfile_10.txt",
+  "text": "took package wanted fit badly , could tell put would n't . hour-glass figure . straight . waist way small body shape even sized , could tell would still tight waist roomy hip - . said , really nice . sturdy , linen-like fabric , pretty color , well made . hope make someone happy !",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93c2ee111e0e8d30789"
+  },
+  "filename": "textfile_11.txt",
+  "text": "Material color nice . leg opening large . 5 ' 1 ( 100 # ) length hit right ankle . leg opening size waist hem line ankle , front pleat make fluffy , think imagine flattering look . least average height taller , may look good .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93d2ee111e0e8d3078a"
+  },
+  "filename": "textfile_12.txt",
+  "text": "Took chance blouse glad . n't crazy blouse photographed model . paired whit white pant worked perfectly . crisp clean would describe . launders well . fit great . drape perfect . wear tucked - ca n't go wrong .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93d2ee111e0e8d3078b"
+  },
+  "filename": "textfile_13.txt",
+  "text": "love look feel tulle dress . looking something different , top new year 's eve . 'm small chested top dress form fitting flattering look . steamed tulle , perfect ! ordered xsp . length perfect .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93d2ee111e0e8d3078c"
+  },
+  "filename": "textfile_14.txt",
+  "text": "product petite , would get petite . regular little long tailor simple fix .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93d2ee111e0e8d3078d"
+  },
+  "filename": "textfile_15.txt",
+  "text": "'m upset price dress , thought embroidered ! , print fabric . think cried little opened box . still ver pretty . would say true size , tad bit big , tiny , still get away . color vibrant . style unique . skirt portion pretty poofy . keep going back forth mainly price , although quality definitely . except wish emb",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93e2ee111e0e8d3078e"
+  },
+  "filename": "textfile_16.txt",
+  "text": "First , pullover styling . side zipper . would n't purchased knew side zipper large bust side zipper next impossible . second , tulle feel look cheap slip awkward tight shape underneath . look like described . sadly returning , 'm sure find something exchange !",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93e2ee111e0e8d3078f"
+  },
+  "filename": "textfile_17.txt",
+  "text": "love shirt first saw , n't sure shirt dress . since see-through wear like dress need slip wear legging . bought slip , wore tie back , rocked white wedge . could also wear vest . careful button . n't fall yet , feel like . overall 's great occasion 's fun wear !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93e2ee111e0e8d30790"
+  },
+  "filename": "textfile_18.txt",
+  "text": "Loved material , didnt really look long dress purchased large medium . im 5 ' 5 '' atleast 5 '' material foot . gap front much wider look . felt like dress fell flat . returned . im usually large med fit better . 36d 30 jean",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da93e2ee111e0e8d30791"
+  },
+  "filename": "textfile_19.txt",
+  "text": "waiting sweater coat ship week excited arrive . coat true size made look short squat . sleeve wide ( although long ) . light weight fall coat sleeve n't need wide would n't layerng much underneath . button need moved least three inch nicer fit . thought redoing button sleeve looked even proportion tigh",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93f2ee111e0e8d30792"
+  },
+  "filename": "textfile_20.txt",
+  "text": "waiting sweater coat ship week excited arrive . coat true size made look short squat . sleeve wide ( although long ) . light weight fall coat sleeve n't need wide would n't layerng much underneath . button need moved least three inch nicer fit . thought redoing button sleeve looked even proportion tigh",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93f2ee111e0e8d30793"
+  },
+  "filename": "textfile_21.txt",
+  "text": "color n't expected either . dark blue much vibrant could n't find anything really go . fabric thick good quality . nice weight movement . skirt n't , end .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93f2ee111e0e8d30794"
+  },
+  "filename": "textfile_22.txt",
+  "text": "several goodhyouman shirt get many compliment . especially one say forehead kiss underrated . n't hesitate . buy shirt . wo n't sorry .....",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da93f2ee111e0e8d30795"
+  },
+  "filename": "textfile_23.txt",
+  "text": "sweater comfy classic - balance quirky hand-knit look beautiful color practical fit . bit cropped boxy part style , others mentioned , gap knit make see-through . opinion make perfect layering ! like longer camisole showing underneath , wearing little dress . 's warm still thin enough fit jacket coat .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9402ee111e0e8d30796"
+  },
+  "filename": "textfile_24.txt",
+  "text": "Beautifully made pant trend flared crop . much cuter person . love !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9402ee111e0e8d30797"
+  },
+  "filename": "textfile_25.txt",
+  "text": "never would given pant second look online , person much cuter ! stripe brighter fit flattering . crop cute flare right trend . brand always run small , 5 ' 8 140lbs carry chubbiness belly . paired collarless loose navy blazer",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9402ee111e0e8d30798"
+  },
+  "filename": "textfile_26.txt",
+  "text": "ordered 3 month ago , finally came back order . huge disappointment . fit & # 39 ; much issue . quality wool subpar . someone else mentioned & quot ; felted wool & quot ; ... guess , call ? literally feel like felt ! super thin , itchy , & # 39 ; drape well , feel cheap ( made china ) . got sale , still worth paid . definitely going back .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9402ee111e0e8d30799"
+  },
+  "filename": "textfile_27.txt",
+  "text": "comfortable skirt span season easily . exciting design , good work skirt paired many top .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9402ee111e0e8d3079a"
+  },
+  "filename": "textfile_28.txt",
+  "text": "ordered small ( 5 ' 6 '' , 135 , size 4 ) medium mom ( 5 ' 3 '' , 130 , size 8 ) gorgeous - beautifully draped , weight/warmth 'll need houston fall winter , look polished snapped unsnapped . age-appropriate mom ( 60 's ) ( 30 's ) . look amazing skinny jean legging . ordered gray true photo .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9412ee111e0e8d3079b"
+  },
+  "filename": "textfile_29.txt",
+  "text": "Pretty unique . great jean worn work slack heel . color , print , embroidery lovely . reasonably priced !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9412ee111e0e8d3079c"
+  },
+  "filename": "textfile_30.txt",
+  "text": "beautiful top . 's unique ordinary . bought usual medium found fit tight across chest . although baby year nursing , could . bought would size .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9412ee111e0e8d3079d"
+  },
+  "filename": "textfile_35.txt",
+  "text": "First , thermal , naturally n't expect super sheer , . really sheer light fabric . like , prepared considering might run walk around house . second , large . ordered size 0 's nice oversized fit 5 ' 3 '' 125 pound . would n't want go larger . along sheer , fabric easily stretched , n't mind case . finally , color . look white monitor show colorful blue dot",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9412ee111e0e8d3079e"
+  },
+  "filename": "textfile_31.txt",
+  "text": "First , thermal , naturally n't expect super sheer , . really sheer light fabric . like , prepared considering might run walk around house . second , large . ordered size 0 's nice oversized fit 5 ' 3 '' 125 pound . would n't want go larger . along sheer , fabric easily stretched , n't mind case . finally , color . look white monitor show colorful blue dot",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9422ee111e0e8d3079f"
+  },
+  "filename": "textfile_32.txt",
+  "text": "love top . wear time . problem tell wear time fabric started fade . 'd still recommend comfortable .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9422ee111e0e8d307a0"
+  },
+  "filename": "textfile_33.txt",
+  "text": "Really cute top ! embroidery collar & bib top beautiful unique , received lot compliment & question got . 'm rather busty top medium fit well , small probably would 've fit better 's still super adorable .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9422ee111e0e8d307a1"
+  },
+  "filename": "textfile_34.txt",
+  "text": "absolutely love bib tee ! 's probably favorite retailer purchase time . 'm 5 ' 7 '' , 140 pound small perfect fit . typically wear either top .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9422ee111e0e8d307a2"
+  },
+  "filename": "textfile_36.txt",
+  "text": "soft comfortable . shirt unusual , asymmetrical seam appears along front , right-hand side garment . ( model positioned ca n't see detail picture . attached picture includes front seam . ) actually like seam - creates visual interest , add little bit ruching help hide belly . cowl neck well done - two layer form cowl , 've found mean wardrobe malfun",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9432ee111e0e8d307a3"
+  },
+  "filename": "textfile_37.txt",
+  "text": "pregnant thought would great sleep bra . 's soft fit okay , zero support shape . would buy b cup smaller get away without support . would seen store , would passed . however , lazy return wearing . 's comfortable 's redeeming quality . would recommend larger chested lady , though !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9432ee111e0e8d307a4"
+  },
+  "filename": "textfile_38.txt",
+  "text": "got petite length , size , fit right . like n't altered length ; wear flat plenty clearance floor bottom hem . beef design height waist . personally think elastic waistband look cheap , really need concealed belt , yet sits high , literally right bustline , 's tricky one pull . wide belt sort th",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9432ee111e0e8d307a5"
+  },
+  "filename": "textfile_39.txt",
+  "text": "3 tag sewn , 2 small ( 1 '' long ) 1 huge ( 2 '' x 3 '' ) . itchy cut . thread left behind plasticy even itchy ! make intimate item itchy tag ? comfortable ! also - love bralettes wear time including work . b cup . however , one thin flimsy give support even b cup - would lounging bralette - n't itchy !",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9432ee111e0e8d307a6"
+  },
+  "filename": "textfile_40.txt",
+  "text": "Beautiful top , delicate ! wore school strap backpack caused pilling . beautiful vibrant ! make sure n't doing/wearing anything rub continuously since fabric delicate",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9432ee111e0e8d307a7"
+  },
+  "filename": "textfile_41.txt",
+  "text": "Love top ! kept eyeing online wavering size , since post-baby body little wonky . went xsp , miraculously , work perfectly ! , would say run little large ..... love length , usually go petite size retailer like longer length regular . perfect , give top , look lovely . soft comfortable . go-to top season !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9442ee111e0e8d307a8"
+  },
+  "filename": "textfile_42.txt",
+  "text": "top cute , massively babydoll shaped ( a- line ) apparent picture . measured x chest 42 '' sweep 70 '' . would definitely keep top hung straighter . craftsmanship lovely fabric natural handwoven looking . 'm thinking asking tailor take side , might ruin fabric layout cut proportioned swing style .",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9442ee111e0e8d307a9"
+  },
+  "filename": "textfile_43.txt",
+  "text": "love top . loose comfortable . sheer n't need cami . run little large size want tailored fit . 1 criticism , catch sharp jewelry belt pull careful .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9442ee111e0e8d307aa"
+  },
+  "filename": "textfile_44.txt",
+  "text": "drawn baby doll boxy shirt immediately tried store . petite 5 ' 2 '' , usually shirt lot fabric swallow whole one still cute . lot fabric picture let , think still super cute flattering . would definitely check size chart read comment see someone size description recommended specific size body type . petite weigh 110 lb",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9442ee111e0e8d307ab"
+  },
+  "filename": "textfile_46.txt",
+  "text": "usually petite 6 since dress come petite tried 4 fit . 'm 5 ' 1 '' -112lbs dress hit rt knee -will hemmed bit overwhelming . dress look stunning ! great vibrant color ( dark hair ) make classic elegant dress look contemporary stylish . tried store , salesperson others happen see raved told grab ! glad . plan wear spring daughte",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9452ee111e0e8d307ac"
+  },
+  "filename": "textfile_47.txt",
+  "text": "debated n think look loose model , tighten , look lot flattering ... tried x store ( usually decide need petite ) , looked huge , pinched back see xx would work , lot fabric , looser n't look good ... like dress overall , still recommend . like looser look , great . would , however , order eptite 5 ' 1.5 '' . ( 115 lb , 03 dd che",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9452ee111e0e8d307ad"
+  },
+  "filename": "textfile_48.txt",
+  "text": "love cute summer dress one , especially made linen , unique . well-made design quite flattering . 5 foot 6 little curvy 38 c bust got size 10. fit well although difficult zip material give . perfect dress wear italy france ! book ticket !",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9452ee111e0e8d307ae"
+  },
+  "filename": "textfile_49.txt",
+  "text": "shirt caught eye beautiful . love shape , design , color . 's perfect spring summer white pant . unfortunately , n't see possibility shirt worn way . far , n't work jean , skirt , short . usually prefer item versatility outfit , 'm still fence 'm going keep . aside , seriously great quality shirt beautiful",
+  "sentiment": "positive"
+},
+{
+  "_id": {
+    "$oid": "675da9452ee111e0e8d307af"
+  },
+  "filename": "textfile_45.txt",
+  "text": "usually size brand . small perfect 135lbs . top luxurious casual feel beautiful . obsessed want wear everyday . wear little long drapey little tight roll arm .",
+  "sentiment": "neutral"
+},
+{
+  "_id": {
+    "$oid": "675da9462ee111e0e8d307b0"
+  },
+  "filename": "textfile_50.txt",
+  "text": "thin poor quality . especially price . felt like thin pajama top . button terrible little shell button . could returned faster .",
+  "sentiment": "negative"
+}]
